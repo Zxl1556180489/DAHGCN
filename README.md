@@ -10,7 +10,7 @@ Recently, group activity recognition has drawn growing interests in video analys
 - PyTorch `0.4.1`
 - numpy, pickle, scikit-image
 - [RoIAlign for Pytorch](https://github.com/longcw/RoIAlign.pytorch)
-- Datasets: [Volleyball](https://github.com/mostafa-saad/deep-activi
+- Datasets: [Volleyball](https://github.com/mostafa-saad/deep-activity-rec), [Collective](http://vhosts.eecs.umich.edu/vision//activity-dataset.html)
 
 ## Prepare Datasets
 
